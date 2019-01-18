@@ -2,10 +2,9 @@ program Helloworld;
 
 uses crt;
 
-VAR
-	
-
 BEGIN
 	WRITELN('Hello World !');
+	WRITELN('Bienvenue sur l''ordinateur de Gaëtan !');
+	READLN();
 END.
 

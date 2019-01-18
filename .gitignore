@@ -1,3 +1,7 @@
 #Fichier gitignore
 *.exe
 *.o
+*.$$$
+*.dir
+*.err
+*.out
